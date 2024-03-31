@@ -1,10 +1,8 @@
-<p align="center"><img src="./app/assets/images/bplogo.png" width="auto" height="150px" alt="beeper palace"></p>
+<p align="center"><img src="./app/assets/images/bplogo.png" width="auto" height="200px" alt="beeper palace"></p>
 
 <h1 align="center">Beeper Palace</h1>
 
-[<p align="center"><img src="https://img.shields.io/github/actions/workflow/status/dscalzi/HeliosLauncher/build.yml?branch=master&style=for-the-badge" alt="gh actions">](https://github.com/dscalzi/HeliosLauncher/actions) [<img src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/dscalzi/HeliosLauncher/releases) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="winter-is-coming"></p>
-
-<p align="center">Join modded servers without worrying about installing Java, Forge, or other mods. We'll handle that for you.</p>
+<p align="center">Join the palace without worrying about installing Java, Forge, or other mods.</p>
 
 ![Screenshot 1](https://i.imgur.com/6o7SmH6.png)
 ![Screenshot 2](https://i.imgur.com/x3B34n1.png)
