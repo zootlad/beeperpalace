@@ -1,4 +1,4 @@
-<p align="center"><img src="./app/assets/images/bplogo.png" width="auto" height="200px" alt="beeper palace"></p>
+<p align="center"><img src="./app/assets/images/bplogo.png" width="auto" height="150px" alt="beeper palace"></p>
 
 <h1 align="center">Beeper Palace</h1>
 
